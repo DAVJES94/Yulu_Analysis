@@ -102,5 +102,5 @@ The dependent variable is the **"Count"** of rentals, and independent variables 
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/yulu-demand-analysis.git
+   git clone https://github.com/DAVJES94/yulu-demand-analysis.git
    cd yulu-demand-analysis
