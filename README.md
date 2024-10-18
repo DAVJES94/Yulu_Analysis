@@ -14,10 +14,7 @@ This project analyzes the factors influencing the demand for Yulu's shared elect
    - Hypothesis Testing  
 5. [Technologies Used](#technologies-used)  
 6. [Installation](#installation)  
-7. [How to Run](#how-to-run)  
-8. [Results](#results)  
-9. [Conclusion](#conclusion)  
-10. [License](#license)  
+
 
 ---
 
